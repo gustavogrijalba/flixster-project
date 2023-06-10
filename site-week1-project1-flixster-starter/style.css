@@ -1,0 +1,58 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: #343434;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-wrap: hidden;
+}
+
+#websiteTitle {
+    text-align: center;
+}
+
+#button-div {
+    text-align: center;
+    margin: auto;
+    translate: 45%;
+}
+
+#loadMore {
+    color: white;
+    background-color: black;
+    display: block;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+#movie-grid {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.movie-container {
+    padding: 10px;
+    margin: 10px;
+}
+
+.movie-poster {
+    border-radius: 50px;
+
+}
+
+#search-form {
+    text-align: center;
+    justify-content: center;
+}
+
+#close-search-btn {
+    color:white;
+    background-color: black;
+}
+
+.movie-title {
+    inline-size: 500px;
+}
