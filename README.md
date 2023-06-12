@@ -41,8 +41,8 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 
 ### Walkthrough Video
-`https://www.loom.com/share/9d86e9ad54144f599595fa47cac24187`
 
+https://www.loom.com/share/4f3e1299d383438bb86910815ba8bd1c
 ### Reflection
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
